@@ -1,3 +1,6 @@
+{
+  "People":
+
 [{
   "id": 1,
   "name": "Demeter Gobeaux",
@@ -99,3 +102,4 @@
   "email": "dcaullierej@wired.com",
   "gender": "Female"
 }]
+}
